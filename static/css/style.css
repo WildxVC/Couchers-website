@@ -80,7 +80,7 @@ nav {
   display: flex;
   margin: 0 25px;
   gap: 115px;
-  height: 100vh;
+  margin-bottom: 250px;
 }
 
 .left {
